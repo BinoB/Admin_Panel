@@ -12,8 +12,8 @@ import ErrorPage from "./components/AddonPages/ErrorPage";
 import BlankPage from "./components/AddonPages/BlankPage";
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import User from "./components/ComponentsPage/CardsPage/User";
 import Product from "./components/ComponentsPage/ProductPage/Product";
+import User from "./components/ComponentsPage/CardsPage/User";
 
 function App() {
   return (
